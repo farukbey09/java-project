@@ -1,0 +1,124 @@
+﻿B0001
+Hizmet
+Osman Nuri Toptas
+192
+B0002
+Sefiller
+Victor Hugo
+512
+B0003
+Bir Idam Mahkumunun Son Günü
+Victor Hugo
+104
+B0004
+Kuyucakli Yusuf
+Sabahattin Ali
+222
+B0005
+Kurk Mantolu Madonna
+Sabahattin Ali
+160
+B0006
+Sırca Kosk
+Sabahattin Ali
+176
+B0007
+Uzun Hikaye
+Mustafa Kutlu
+114
+B0009
+Ya Tahammul Ya Sefer
+Mustafa Kutlu
+124
+B0010
+Hayat Guzeldir
+Mustafa Kutlu
+167
+B0011
+Mavi Kuş
+Mustafa Kutlu
+210
+B0013
+Santranç
+Stefan Zweig
+71
+B0014
+Olağanüstü Bir Gece
+Stefan Zweig
+78
+B0015
+Geç Ödenen Bedel
+Stefan Zweig
+94
+B0016
+Dönüşüm
+Franz Kafka
+132
+B0018
+Zubeyr B. Avvam (ra)
+Muhammed Emin Yıldırım
+170
+B0019
+Talha B. Ubeydullah (ra)
+Muhammed Emin Yıldırım
+153
+B0020
+Ebu Ubeyde B. Cerrah (ra)
+Muhammed Emin Yıldırım
+158
+B0021
+Sad B. Ebi Vakkas (ra)
+Muhammed Emin Yıldırım
+176
+B0022
+Uçurtma Avcısı
+Khaled Hosseini
+440
+B0024
+Çanlar Kimin İçin Çalıyor
+Ernest Hemingway
+496
+B0026
+Bir Güzel Adam
+Oğuzhan Çelebi
+160
+B0027
+Herkes Kalbi Kadar Sever
+Oğuzhan Çelebi
+159
+B0028
+Mahşer
+Peyami Safa
+324
+B0029
+Dokuzuncu Hariciye Koğuşu
+Peyami Safa
+128
+B0030
+Felatun Bey ve Rakım Efendi
+Ahmet Mithat Efendi
+176
+B0017
+Hz. Hatice (ra)
+Muhammed Emin Yıldırım
+159
+B0031
+Doğal Aile
+Nureddin Yıldız
+297
+B0025
+Fesleğe
+Hikmet Anıl Öztekin
+215
+B0023
+İnce Memed
+Yaşar Kemal
+2142
+B0012
+Don Kişot
+Miguel De C. Saavedra
+488
+B0008
+Bu Böyledir
+Mustafa Kutlu
+90

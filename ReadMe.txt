@@ -1,0 +1,4 @@
+-Hocam Çok ugraþtým ve baya araþtýrdým bazý insanlarda hata veriyor jar dosyasý açýlmýyor açýlmasý için bat kullandým .
+-Jarý açmak için Run.bat'ý çalýþtýrýnýz. biraz bekleyin açýlýcaktýr.
+-Jar Dosyasý\out\artifacts\Library_System_jar\Run.bat
+-Hocam Size Admin  hesabý olarak ID:TanerCevik Sifre:123456

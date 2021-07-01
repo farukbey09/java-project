@@ -1,0 +1,24 @@
+﻿B0001
+Hizmet
+Osman Nuri Toptas
+192
+AdminFaruk
+28052020
+B0007
+Uzun Hikaye
+Mustafa Kutlu
+114
+farukbey
+28052020
+B0015
+Gec Odenen Bedel
+Stefan Zweig
+94
+halilpeker
+12052020
+B0011
+Mavi Kus
+Mustafa Kutlu
+210
+halilpeker
+28052020

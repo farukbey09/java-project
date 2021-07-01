@@ -1,0 +1,112 @@
+B0002
+Sefiller
+Victor Hugo
+512
+B0003
+Bir Idam Mahkumunun Son Gunu
+Victor Hugo
+104
+B0004
+Kuyucakli Yusuf
+Sabahattin Ali
+222
+B0005
+Kurk Mantolu Madonna
+Sabahattin Ali
+160
+B0006
+Sirca Kosk
+Sabahattin Ali
+176
+B0009
+Ya Tahammul Ya Sefer
+Mustafa Kutlu
+124
+B0010
+Hayat Guzeldir
+Mustafa Kutlu
+167
+B0011
+Mavi Kus
+Mustafa Kutlu
+210
+B0013
+Santranc
+Stefan Zweig
+71
+B0014
+Olaganustu Bir Gece
+Stefan Zweig
+78
+B0016
+Donusum
+Franz Kafka
+132
+B0018
+Zubeyr B. Avvam (ra)
+Muhammed Emin Yildirm
+170
+B0019
+Talha B. Ubeydullah (ra)
+Muhammed Emin Yildirm
+153
+B0020
+Ebu Ubeyde B. Cerrah (ra)
+Muhammed Emin Yildirm
+158
+B0021
+Sad B. Ebi Vakkas (ra)
+Muhammed Emin Yildirim
+176
+B0022
+Ucurtma Avcisi
+Khaled Hosseini
+440
+B0024
+Canlar Kimin Icin Caliyor
+Ernest Hemingway
+496
+B0026
+Bir Guzel Adam
+Oguzhan Celebi
+160
+B0027
+Herkes Kalbi Kadar Sever
+Oguzhan Celebi
+159
+B0028
+Mahser
+Peyami Safa
+324
+B0029
+Dokuzuncu Hariciye Kogusu
+Peyami Safa
+128
+B0030
+Felatun Bey ve Rakim Efendi
+Ahmet Mithat Efendi
+176
+B0017
+Hz.Hatice (ra)
+Muhammed Emin Yildirim
+159
+B0031
+Dogal Aile
+Nureddin Yildiz
+297
+B0025
+Feslege
+Hikmet Anil Oztekin
+215
+B0023
+Ince Memed
+Yasar Kemal
+2142
+B0012
+Don Kisot
+Miguel De C. Saavedra
+488
+B0008
+Bu Boyledir
+Mustafa Kutlu
+90
